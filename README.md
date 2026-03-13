@@ -1,4 +1,4 @@
-# TTSW — Tree-Wasserstein Distances for Time Series
+# Temporal Tree-sliced Wasserstein (TTSW) Distance for Time Series
 
 This project implements **TTSWD**, a Tree-Wasserstein distance method for time series, supporting classification, clustering, and visualization. The output is a pairwise distance matrix that can be used directly with k-NN, k-Medoids, and t-SNE.
 
